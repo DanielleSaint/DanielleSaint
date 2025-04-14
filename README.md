@@ -11,4 +11,4 @@
 💬 Preguntame sobre desarrollo web frontend, validación de ideas, diseño de landing pages, o cómo convertir ideas en MVPs funcionales.
 
 📫 Contáctame: daniellesaint09@gmail.com | http://linkedin.com/in/developer-daniela-santacruz-frontend/
-                | Desarrollador Web Full stack / Java | HTML5 | CSS | JavaScript | Java | Bootstrap | MongoDB  | MySQL | 
+|                    | Desarrollador Web Full stack / Java | HTML5 | CSS | JavaScript | Java | Bootstrap | MongoDB  | MySQL |                     |
