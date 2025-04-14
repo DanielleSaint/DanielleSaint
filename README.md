@@ -12,4 +12,4 @@
 
 📫 Contáctame: daniellesaint09@gmail.com | http://linkedin.com/in/developer-daniela-santacruz-frontend/.
 
-💻|                    | Desarrollador Web Full stack / Java | HTML5 | CSS | JavaScript | Java | Bootstrap | MongoDB  | MySQL |                     |
+💻|-----------------| Desarrollador Web Full stack / Java | HTML5 | CSS | JavaScript | Java | Bootstrap | MongoDB  | MySQL |-------------------|
