@@ -1,16 +1,13 @@
-## Hi there 👋
+Hola 🖖
 
-<!--
-**DanielleSaint/DanielleSaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Actualmente estoy trabajando en una pagina web para un e-commerce de productos didácticos para niños con autismo, además de proyectos personales con HTML, CSS, JavaScript y Java.
 
-Here are some ideas to get you started:
+🌱 Estoy en un proceso de aprendizaje de Full Stack Web Development con Java, algoritmos y estructuras de datos en JavaScript, y fundamentos de Cloud Computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Busco colaborar en proyectos web educativos, accesibles y con impacto social, especialmente e-commerce y apps enfocadas en la inclusión digital.
+
+😃 Dispuesta a recibir y dar feedback para mejorar mis habilidades en backend (Java + Spring) y estrategias para lanzar mis aplicaciones al mercado.
+
+💬 Preguntame sobre desarrollo web frontend, validación de ideas, diseño de landing pages, o cómo convertir ideas en MVPs funcionales.
+
+📫 Contáctame: daniellesaint09@gmail.com | http://linkedin.com/in/developer-daniela-santacruz-frontend/
