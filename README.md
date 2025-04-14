@@ -1,4 +1,4 @@
----------------------------------------------------Hola 🖖-------------------------------------------------------
+-------------------------------------------------------- Hola 🖖 ------------------------------------------------------------
 
 🤓 Actualmente estoy trabajando en una pagina web para un e-commerce de productos didácticos para niños con autismo, además de proyectos personales con HTML, CSS, JavaScript y Java.
 
