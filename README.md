@@ -1,10 +1,13 @@
 # Desarrolladora Full Stack apasionada por crear soluciones web innovadoras y creativas. 👩💻
+![Frontend](assets/Fondo%20GitHub.png)
+
 ## 📚 Sobre mí
 ¡Hola! Soy Dani, desarrolladora web en formación apasionada por el frontend y la experiencia de usuario. Actualmente estoy trabajando en una pagina web para un e-commerce de productos didácticos para niños con autismo, además de proyectos personales con HTML, CSS, JavaScript y Java.
 
 ## 📬 Contacto
-[![Static Badge](https://img.shields.io/badge/LinkedIn-b277ec?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeveloper-daniela-santacruz-frontend%2F)](https://www.linkedin.com/in/developer-daniela-santacruz-frontend/)  
-![Static Badge](https://img.shields.io/badge/Whatsapp-56d66c?style=plastic&link=https%3A%2F%2Fwa.me%2F573163318698%3Ftext%3DSoy_Daniela_Desarrolladora_Web_Full_Stack) ![Static Badge](https://img.shields.io/badge/LinkedIn-b277ec?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeveloper-daniela-santacruz-frontend%2F)
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-b277ec?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeveloper-daniela-santacruz-frontend%2F)](https://www.linkedin.com/in/developer-daniela-santacruz-frontend/) [![Static Badge](https://img.shields.io/badge/Whatsapp-56d66c?style=plastic&link=https%3A%2F%2Fwa.me%2F573163318698%3Ftext%3DSoy_Daniela_Desarrolladora_Web_Full_Stack)](https://wa.me/573163318698?text=Soy_Daniela_Desarrolladora_Web_Full_Stack) 
+
 
 ## 🌟 Proyectos Destacados 🌟
 
