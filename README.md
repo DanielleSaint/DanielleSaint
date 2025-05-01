@@ -11,7 +11,7 @@
 
 ## 🌟 Proyectos Destacados 🌟
 
-## **Journey - Ecommerce**
+## **Journey - Ecommerce**🐋
 
 Es una tienda en línea de productos didácticos diseñados especialmente para niños con autismo. Cuenta con una estética amigable en tonalidades azules, secciones claras como home, productos, contacto, sobre nosotros y login. Combina accesibilidad, funcionalidad y un propósito educativo y social.
 
@@ -59,7 +59,7 @@ Es una tienda en línea de productos didácticos diseñados especialmente para n
 </tr>
 </table>
 
-## **Abecedario - Juego interactivo**
+## **Abecedario - Juego interactivo**🔠
 
 Es una aplicación web interactiva para niños, donde cada letra del abecedario está representada como una card con imagen. Al tocar una card, esta cambia de color aleatoriamente. Incluye botón de reinicio y diseño responsive. Ideal para aprender jugando.
 
@@ -98,7 +98,7 @@ Es una aplicación web interactiva para niños, donde cada letra del abecedario 
 </tr>
 </table>
 
-## **Chili Tips - Pagina Web**
+## **Chili Tips - Pagina Web**🌮
 
 Es una página web para restaurante de comida mexicana. Incluye secciones de contacto, redes, quiénes somos y home. Permite reservar una mesa o hacer pedidos a domicilio, todo con un diseño alegre, colorido y responsive.
 
