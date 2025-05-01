@@ -1,5 +1,5 @@
 # Desarrolladora Full Stack apasionada por crear soluciones web innovadoras y creativas. 👩💻
-![Frontend](assets/Fondo%20GitHub.png)
+![Frontend](assets/BannerFrontend.png)
 
 ## 📚 Sobre mí
 ¡Hola! Soy Dani, desarrolladora web en formación apasionada por el frontend y la experiencia de usuario. Actualmente estoy trabajando en una pagina web para un e-commerce de productos didácticos para niños con autismo, además de proyectos personales con HTML, CSS, JavaScript y Java.
@@ -11,10 +11,11 @@
 
 ## 🌟 Proyectos Destacados 🌟
 
-**Journey - Ecommerce**
+## **Journey - Ecommerce**
 
 Es una tienda en línea de productos didácticos diseñados especialmente para niños con autismo. Cuenta con una estética amigable en tonalidades azules, secciones claras como home, productos, contacto, sobre nosotros y login. Combina accesibilidad, funcionalidad y un propósito educativo y social.
-👉 ![Demo del Proyecto](/assets/Journey.webm) | [Código Fuente](https://github.com/httpsmarioooo/ProyectoEcomerce-RR-PA2)
+
+![Journey](/assets/BannerJourney.PNG) | [Repositorio](https://github.com/httpsmarioooo/ProyectoEcomerce-RR-PA2)
 ## 🤝 Colaboradores
 <table>
 <tr>
@@ -58,10 +59,11 @@ Es una tienda en línea de productos didácticos diseñados especialmente para n
 </tr>
 </table>
 
-**Abecedario - Juego interactivo**
+## **Abecedario - Juego interactivo**
 
 Es una aplicación web interactiva para niños, donde cada letra del abecedario está representada como una card con imagen. Al tocar una card, esta cambia de color aleatoriamente. Incluye botón de reinicio y diseño responsive. Ideal para aprender jugando.
-👉 ![Demo del Proyecto](/assets/Abecedario.webm) | [Código Fuente](https://github.com/DanielleSaint/LaboratorioGrupalHTML-CSS-JS)
+
+![Abecedario](/assets/BannerAbecedario.PNG) | [Repositorio](https://github.com/DanielleSaint/LaboratorioGrupalHTML-CSS-JS)
 ## 🤝 Colaboradores
 <table>
 <tr>
@@ -96,10 +98,11 @@ Es una aplicación web interactiva para niños, donde cada letra del abecedario 
 </tr>
 </table>
 
-**Chili Tips - Pagina Web**
+## **Chili Tips - Pagina Web**
 
-Es una página web para restaurante de comida mexicana. Incluye secciones de contacto, redes, quiénes somos y home. Permite reservar una mesa o hacer pedidos a domicilio, todo con un diseño alegre, colorido y responsive.  
-👉 ![Demo del Proyecto](/assets/ChiliTips.webm) | [Código Fuente](https://github.com/DanielleSaint/LAB-Refactorizacion-Blog)
+Es una página web para restaurante de comida mexicana. Incluye secciones de contacto, redes, quiénes somos y home. Permite reservar una mesa o hacer pedidos a domicilio, todo con un diseño alegre, colorido y responsive.
+
+![Chili Tips](/assets/BannerMexico.PNG) | [Repositorio](https://github.com/DanielleSaint/LAB-Refactorizacion-Blog)
 ## 🤝 Colaboradores
 <table>
 <tr>
