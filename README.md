@@ -13,8 +13,10 @@
 <h2 style="text-align:center;">**Journey - Ecommerce**🐋</h2> 
 
 Es una tienda en línea de productos didácticos diseñados especialmente para niños con autismo. Cuenta con una estética amigable en tonalidades azules, secciones claras como home, productos, contacto, sobre nosotros y login. Combina accesibilidad, funcionalidad y un propósito educativo y social.
+<a href="https://github.com/httpsmarioooo/ProyectoEcomerce-RR-PA2" align="center">
+<img src="./assets/BannerJourney.PNG" width=300px>
+</a>
 
-![Journey](/assets/BannerJourney.PNG) | [Repositorio](https://github.com/httpsmarioooo/ProyectoEcomerce-RR-PA2)
 🤝 Colaboradores
 <table align="center">
 <tr>
