@@ -1,5 +1,5 @@
-# Desarrolladora Full Stack apasionada por crear soluciones web innovadoras y creativas. 👩💻
 ![Frontend](assets/BannerFrontend.png)
+# Desarrolladora Full Stack apasionada por crear soluciones web innovadoras y creativas. 👩💻
 
 ## 📚 Sobre mí
 ¡Hola! Soy Dani, desarrolladora web en formación apasionada por el frontend y la experiencia de usuario. Actualmente estoy trabajando en una pagina web para un e-commerce de productos didácticos para niños con autismo, además de proyectos personales con HTML, CSS, JavaScript y Java.
