@@ -15,10 +15,10 @@
 Es una tienda en línea de productos didácticos diseñados especialmente para niños con autismo. Cuenta con una estética amigable en tonalidades azules, secciones claras como home, productos, contacto, sobre nosotros y login. Combina accesibilidad, funcionalidad y un propósito educativo y social.
 
 <a href="https://github.com/httpsmarioooo/ProyectoEcomerce-RR-PA2">
-<img src="./assets/BannerJourney.PNG" width=400px align="center">
+<img src="./assets/BannerJourney.PNG" width=400px>
 </a>
 
-🤝 Colaboradores
+<h3 style="text-align:center;" align="center">🤝 Colaboradores</h3> 
 <table align="center">
 <tr>
 
@@ -61,13 +61,17 @@ Es una tienda en línea de productos didácticos diseñados especialmente para n
 </tr>
 </table>
 
-<h2 style="text-align:center;">**Abecedario - Juego interactivo**🔠</h2>
+<h2 style="text-align:center;" align="center">Abecedario - Juego interactivo🔠</h2>
 
 Es una aplicación web interactiva para niños, donde cada letra del abecedario está representada como una card con imagen. Al tocar una card, esta cambia de color aleatoriamente. Incluye botón de reinicio y diseño responsive. Ideal para aprender jugando.
 
-![Abecedario](/assets/BannerAbecedario.PNG) | [Repositorio](https://github.com/DanielleSaint/LaboratorioGrupalHTML-CSS-JS)
-🤝 Colaboradores
-<table>
+<a href="https://github.com/DanielleSaint/LaboratorioGrupalHTML-CSS-JS">
+<img src="./assets/BannerAbecedario.PNG" width=400px>
+</a>
+
+<h3 style="text-align:center;" align="center">🤝 Colaboradores</h3>
+
+<table align="center">
 <tr>
 
 <td align="center">
@@ -100,11 +104,13 @@ Es una aplicación web interactiva para niños, donde cada letra del abecedario 
 </tr>
 </table>
 
-<h2 style="text-align:center;">**My list To-Do**🟣</h2>
+<h2 style="text-align:center;" align="center">My list To-Do🟣</h2>
 
 Esta página permite agregar, eliminar y marcar como completadas tus tareas o notas diarias de manera sencilla. Todas las acciones se guardan automáticamente en el navegador mediante localStorage, asegurando que tu lista se conserve aunque cierres la página. Organiza tus pendientes y mantén el control de tus actividades fácilmente.
 
-![To-Do](/assets/BannerTo-Do.PNG) | [Repositorio](https://github.com/DanielleSaint/LabEvents-part2)
+<a href="https://github.com/DanielleSaint/LabEvents-part2">
+<img src="./assets/BannerTo-Do.PNG" width=400px>
+</a>
 
 ## 🛠 Tecnologías y Herramientas AI
 
