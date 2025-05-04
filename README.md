@@ -1,4 +1,4 @@
-![Frontend](assets/BannerFrontend.png)
+![Frontend](assets/BannerFrontendDev.png)
 # Desarrolladora Full Stack apasionada por crear soluciones web innovadoras y creativas. 👩💻
 
 ## 📚 Sobre mí
@@ -150,7 +150,7 @@ Esta página permite agregar, eliminar y marcar como completadas tus tareas o no
 <img src="https://img.shields.io/badge/Adaptabilidad-904dff?style=plastic">
 </p>
 
-
+![Frontend](assets/BannerThx.png)
 
 
 
