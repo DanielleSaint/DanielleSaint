@@ -6,18 +6,17 @@
 
 ## 📬 Contacto
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-b277ec?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeveloper-daniela-santacruz-frontend%2F)](https://www.linkedin.com/in/developer-daniela-santacruz-frontend/) [![Static Badge](https://img.shields.io/badge/Whatsapp-56d66c?style=plastic&link=https%3A%2F%2Fwa.me%2F573163318698%3Ftext%3DSoy_Daniela_Desarrolladora_Web_Full_Stack)](https://wa.me/573163318698?text=Soy_Daniela_Desarrolladora_Web_Full_Stack) 
-
+[![Static Badge](https://img.shields.io/badge/LinkedIn-b277ec?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeveloper-daniela-santacruz-frontend%2F)](https://www.linkedin.com/in/developer-daniela-santacruz-frontend/) [![Static Badge](https://img.shields.io/badge/Whatsapp-56d66c?style=plastic&link=https%3A%2F%2Fwa.me%2F573163318698%3Ftext%3DSoy_Daniela_Desarrolladora_Web_Full_Stack)](https://wa.me/573163318698?text=Soy_Daniela_Desarrolladora_Web_Full_Stack)
 
 ## 🌟 Proyectos Destacados 🌟
 
-## **Journey - Ecommerce**🐋
+<h2 style="text-align:center;">**Journey - Ecommerce**🐋</h2> 
 
 Es una tienda en línea de productos didácticos diseñados especialmente para niños con autismo. Cuenta con una estética amigable en tonalidades azules, secciones claras como home, productos, contacto, sobre nosotros y login. Combina accesibilidad, funcionalidad y un propósito educativo y social.
 
 ![Journey](/assets/BannerJourney.PNG) | [Repositorio](https://github.com/httpsmarioooo/ProyectoEcomerce-RR-PA2)
-## 🤝 Colaboradores
-<table>
+🤝 Colaboradores
+<table align="center">
 <tr>
 
 <td align="center">
@@ -59,12 +58,12 @@ Es una tienda en línea de productos didácticos diseñados especialmente para n
 </tr>
 </table>
 
-## **Abecedario - Juego interactivo**🔠
+<h2 style="text-align:center;">**Abecedario - Juego interactivo**🔠</h2>
 
 Es una aplicación web interactiva para niños, donde cada letra del abecedario está representada como una card con imagen. Al tocar una card, esta cambia de color aleatoriamente. Incluye botón de reinicio y diseño responsive. Ideal para aprender jugando.
 
 ![Abecedario](/assets/BannerAbecedario.PNG) | [Repositorio](https://github.com/DanielleSaint/LaboratorioGrupalHTML-CSS-JS)
-## 🤝 Colaboradores
+🤝 Colaboradores
 <table>
 <tr>
 
@@ -98,61 +97,44 @@ Es una aplicación web interactiva para niños, donde cada letra del abecedario 
 </tr>
 </table>
 
-## **Chili Tips - Pagina Web**🌮
+<h2 style="text-align:center;">**My list To-Do**🟣</h2>
 
-Es una página web para restaurante de comida mexicana. Incluye secciones de contacto, redes, quiénes somos y home. Permite reservar una mesa o hacer pedidos a domicilio, todo con un diseño alegre, colorido y responsive.
+Esta página permite agregar, eliminar y marcar como completadas tus tareas o notas diarias de manera sencilla. Todas las acciones se guardan automáticamente en el navegador mediante localStorage, asegurando que tu lista se conserve aunque cierres la página. Organiza tus pendientes y mantén el control de tus actividades fácilmente.
 
-![Chili Tips](/assets/BannerMexico.PNG) | [Repositorio](https://github.com/DanielleSaint/LAB-Refactorizacion-Blog)
-## 🤝 Colaboradores
-<table>
-<tr>
+![To-Do](/assets/BannerTo-Do.PNG) | [Repositorio](https://github.com/DanielleSaint/LabEvents-part2)
 
-<td align="center">
-<a href="https://github.com/fermumu">
-<img src="https://avatars.githubusercontent.com/u/79942967?v=4" width="100px;" alt="Fernando Muñoz Profile Picture"/><br>
-<sub>
-<b>Fernando Muñoz</b>
-</sub>
-</a>
-</td>
+## 🛠 Tecnologías y Herramientas AI
 
-<td align="center">
-<a href="https://github.com/Cairosneo22">
-<img src="https://avatars.githubusercontent.com/u/200002417?v=4" width="100px;" alt="Fabian Fonseca Profile Picture"/><br>
-<sub>
-<b>Fabian Fonseca</b>
-</sub>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/atlasprogrammingxxi">
-<img src="https://avatars.githubusercontent.com/u/94792573?v=4" width="100px;" alt="Hermel Rojas Profile Picture"/><br>
-<sub>
-<b>Hermel Rojas</b>
-</sub>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Angela0697">
-<img src="https://avatars.githubusercontent.com/u/200633499?v=4" width="100px;" alt="Angela Laverde Profile Picture"/><br>
-<sub>
-<b>Angela Laverde</b>
-</sub>
-</a>
-</td>
-
-</tr>
-</table>
-
-## 🛠 Tecnologías  
-
-![Static Badge](https://img.shields.io/badge/HTML5-28ff97) ![Static Badge](https://img.shields.io/badge/CSS3-28ffff) ![Static Badge](https://img.shields.io/badge/JavaScript-8a28ff) ![Static Badge](https://img.shields.io/badge/Bootstrap-2852ff) ![Static Badge](https://img.shields.io/badge/Node.js-d528ff) ![Static Badge](https://img.shields.io/badge/Java-28aeff) ![Static Badge](https://img.shields.io/badge/MongoDB-28ffaa) ![Static Badge](https://img.shields.io/badge/Git-ffffff) ![Static Badge](https://img.shields.io/badge/GitHub-000000) ![Static Badge](https://img.shields.io/badge/Figma-ff0000) ![Static Badge](https://img.shields.io/badge/VsCode-ffc100) ![Static Badge](https://img.shields.io/badge/intelliJ-d500ff)
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-28ff97?style=flat">
+<img src="https://img.shields.io/badge/CSS3-28ffff?style=flat">
+<img src="https://img.shields.io/badge/JavaScript-8a28ff?style=flat">
+<img src="https://img.shields.io/badge/Bootstrap-2852ff?style=flat">
+<img src="https://img.shields.io/badge/Node.js-d528ff?style=flat">
+<img src="https://img.shields.io/badge/Java-28aeff?style=flat">
+<img src="https://img.shields.io/badge/MongoDB-28ffaa?style=flat">
+<img src="https://img.shields.io/badge/Git-ffffff?style=flat">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat">
+<img src="https://img.shields.io/badge/Figma-ff0000?style=flat">
+<img src="https://img.shields.io/badge/VsCode-ffc100?style=flat">
+<img src="https://img.shields.io/badge/intelliJ-d500ff?style=flat">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/ChatGPT-0023ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Perplexity-dc00ff?style=for-the-badge">
+</p>
 
 ## 😎 Habilidades y Mentalidades de comportamiento
 
-![Static Badge](https://img.shields.io/badge/Resoluci%C3%B3n%20de%20problemas-f0ff33) ![Static Badge](https://img.shields.io/badge/Atenci%C3%B3n%20al%20detalle-4fd36b) ![Static Badge](https://img.shields.io/badge/Trabajo%20en%20equipo-1b5ffb) ![Static Badge](https://img.shields.io/badge/Comunicaci%C3%B3n%20asertiva-df3460) ![Static Badge](https://img.shields.io/badge/Adaptabilidad-904dff) ![Static Badge](https://img.shields.io/badge/Creatividad-22fffc)
+<p align="center">
+<img src="https://img.shields.io/badge/Creatividad-22fffc?style=plastic">
+<img src="https://img.shields.io/badge/Resolucion%20de%20problemas-f0ff33?style=plastic">
+<img src="https://img.shields.io/badge/Atenci%C3%B3n%20al%20detalle-4fd36b?style=plastic">
+<img src="https://img.shields.io/badge/Trabajo%20en%20equipo-1b5ffb?style=plastic">
+<img src="https://img.shields.io/badge/Comunicaci%C3%B3n%20asertiva-df3460?style=plastic">
+<img src="https://img.shields.io/badge/Adaptabilidad-904dff?style=plastic">
+</p>
+
 
 
 
